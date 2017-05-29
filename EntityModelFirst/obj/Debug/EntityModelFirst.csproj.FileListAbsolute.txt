@@ -1,0 +1,11 @@
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\bin\Debug\EntityModelFirst.exe.config
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\bin\Debug\EntityModelFirst.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\bin\Debug\EntityModelFirst.pdb
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\bin\Debug\EntityFramework.dll
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\bin\Debug\EntityFramework.xml
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\obj\Debug\EntityModelFirst.csprojResolveAssemblyReference.cache
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\obj\Debug\EntityModelFirst.Form1.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\obj\Debug\EntityModelFirst.Properties.Resources.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\obj\Debug\EntityModelFirst.csproj.GenerateResource.Cache
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\obj\Debug\EntityModelFirst.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityModelFirst\obj\Debug\EntityModelFirst.pdb

@@ -1,0 +1,12 @@
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\bin\Debug\FirstCodeFluentAPI.exe.config
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\bin\Debug\FirstCodeFluentAPI.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\bin\Debug\FirstCodeFluentAPI.pdb
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\bin\Debug\EntityFramework.dll
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\bin\Debug\EntityFramework.xml
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\obj\Debug\FirstCodeFluentAPI.Form1.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\obj\Debug\FirstCodeFluentAPI.Properties.Resources.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\obj\Debug\FirstCodeFluentAPI.csproj.GenerateResource.Cache
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\obj\Debug\FirstCodeFluentAPI.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\FirstCodeFluentAPI\obj\Debug\FirstCodeFluentAPI.pdb

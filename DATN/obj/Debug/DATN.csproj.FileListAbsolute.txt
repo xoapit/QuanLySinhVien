@@ -1,0 +1,11 @@
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\bin\Debug\DATN.exe.config
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\bin\Debug\DATN.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\bin\Debug\DATN.pdb
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\obj\Debug\DATN.csprojResolveAssemblyReference.cache
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\obj\Debug\DATN.Main.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\obj\Debug\DATN.FormAdd.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\obj\Debug\DATN.Properties.Resources.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\obj\Debug\DATN.csproj.GenerateResource.Cache
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\obj\Debug\DATN.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\obj\Debug\DATN.pdb
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\DATN\obj\Debug\DATN.GUI.FormEdit.resources

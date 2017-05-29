@@ -1,0 +1,11 @@
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\bin\Debug\EntityFramework.dll
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\bin\Debug\EntityFramework.xml
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

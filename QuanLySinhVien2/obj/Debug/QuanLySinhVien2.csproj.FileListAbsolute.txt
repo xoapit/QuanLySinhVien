@@ -1,0 +1,9 @@
+c:\users\xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien2\bin\Debug\QuanLySinhVien2.exe.config
+c:\users\xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien2\bin\Debug\QuanLySinhVien2.exe
+c:\users\xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien2\bin\Debug\QuanLySinhVien2.pdb
+c:\users\xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.csprojResolveAssemblyReference.cache
+c:\users\xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.Form1.resources
+c:\users\xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.Properties.Resources.resources
+c:\users\xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.csproj.GenerateResource.Cache
+c:\users\xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.exe
+c:\users\xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien2\obj\Debug\QuanLySinhVien2.pdb

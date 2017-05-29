@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LINQdb">
+  <DataContextMoniker Name="/LINQdbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f7a74d07-cfb8-44fe-b183-3f7db40a6840" absoluteBounds="3.75, 1.375, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/LINQdbDataContext/LOP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d3696285-a865-435c-814d-72e019d2fdcb" absoluteBounds="3.765, 1.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5ecf0b31-8aaf-4114-ac3b-6c179404b77c" absoluteBounds="0.875, 1.375, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/LINQdbDataContext/SINHVIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="66775662-60a0-4e94-894f-a16e6fda58e2" absoluteBounds="0.89000000000000012, 1.835, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

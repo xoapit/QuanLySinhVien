@@ -1,0 +1,13 @@
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\bin\Debug\QuanLySinhVien3.exe.config
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\bin\Debug\QuanLySinhVien3.exe
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\bin\Debug\QuanLySinhVien3.pdb
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\obj\Debug\QuanLySinhVien3.csprojResolveAssemblyReference.cache
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\obj\Debug\QuanLySinhVien3.Main.resources
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\obj\Debug\QuanLySinhVien3.Form_AddSV.resources
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\obj\Debug\QuanLySinhVien3.Form_EditSV.resources
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\obj\Debug\QuanLySinhVien3.Properties.Resources.resources
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\obj\Debug\QuanLySinhVien3.csproj.GenerateResource.Cache
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\obj\Debug\QuanLySinhVien3.exe
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\obj\Debug\QuanLySinhVien3.pdb
+C:\Users\Xoapit\documents\visual studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\obj\Debug\QuanLySinhVien3.GUI.Form_SearchSV.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\QuanLySinhVien3\obj\Debug\QuanLySinhVien3.GUI.Form_DeleteSV.resources

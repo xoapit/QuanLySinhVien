@@ -1,0 +1,17 @@
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\bin\Debug\EntityFirstCode.exe.config
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\bin\Debug\EntityFirstCode.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\bin\Debug\EntityFirstCode.pdb
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\bin\Debug\EntityFramework.dll
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\bin\Debug\EntityFramework.xml
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\obj\Debug\EntityFirstCode.Main.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\obj\Debug\EntityFirstCode.Properties.Resources.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\obj\Debug\EntityFirstCode.csproj.GenerateResource.Cache
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\obj\Debug\EntityFirstCode.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\obj\Debug\EntityFirstCode.pdb
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\obj\Debug\EntityFirstCode.csprojResolveAssemblyReference.cache
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\obj\Debug\EntityFirstCode.GUI.FormAdd.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\obj\Debug\EntityFirstCode.Migrations.InitialCreate.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\obj\Debug\EntityFirstCode.Migrations.SM2.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\QuanLySinhVien2\EntityFirstCode\obj\Debug\EntityFirstCode.Migrations.SM3.resources
